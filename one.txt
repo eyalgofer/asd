@@ -1,3 +1,4 @@
-this is written in master
+this is written in mastera
 
-this is written2 in bugfix pinner
+
+this is written2 in bugfix pinnerad
